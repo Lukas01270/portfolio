@@ -7,14 +7,16 @@ import Experience from './components/Experience'
 
 function App() {
   return (
-    <main className="bg-gray-950 text-white min-h-screen">
-      <Hero />
-      <About />
-      <Projects />
-      <Skills />
-      <Experience />
-      <Contact />
-    </main>
+    <div className="bg-gray-950 min-h-screen">
+      <main className="max-w-6xl mx-auto px-8 text-white">
+        <Hero />
+        <About />
+        <Projects />
+        <Skills />
+        <Experience />
+        <Contact />
+      </main>
+    </div>
   )
 }
 

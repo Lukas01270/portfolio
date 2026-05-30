@@ -1,8 +1,8 @@
 const skills = {
   "Frontend": ["React", "TypeScript", "Tailwind CSS", "HTML/CSS"],
   "Backend": ["Node.js", "PostgreSQL", "REST APIs"],
-  "DevOps & Cloud": ["Linux", "Docker", "Git", "AWS", "n8n"],
-  "Redes": ["Cisco", "MikroTik", "OSPF", "VLANs", "GNS3"],
+  "DevOps & Cloud": ["Linux", "Docker", "Git", "AWS", "n8n", "Python"],
+  "Redes": ["Cisco", "MikroTik", "GNS3" , "Manejo físico" , "Ruteos"],
 }
 
 function Skills() {

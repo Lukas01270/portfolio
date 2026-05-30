@@ -6,7 +6,7 @@ function About() {
         <div>
           <p className="mb-4">
             Soy estudiante de Ingeniería Electrónica y Telecomunicaciones en la UMSS, 
-            con una fuerte orientación hacia el desarrollo web y la infraestructura cloud.
+            con una orientación hacia el desarrollo web y la infraestructura cloud.
           </p>
           <p className="mb-4">
             Me especializo en construir aplicaciones fullstack con React y Node.js, 
@@ -19,19 +19,19 @@ function About() {
         </div>
         <div className="flex flex-col gap-3">
           <div className="bg-gray-900 rounded-lg p-4">
-            <span className="text-blue-400 font-semibold">🎓 Universidad</span>
+            <span className="text-blue-400 font-semibold"> Universidad</span>
             <p className="text-sm mt-1">Ing. Electrónica y Telecomunicaciones — UMSS</p>
           </div>
           <div className="bg-gray-900 rounded-lg p-4">
-            <span className="text-blue-400 font-semibold">📍 Ubicación</span>
+            <span className="text-blue-400 font-semibold"> Ubicación</span>
             <p className="text-sm mt-1">Cochabamba, Bolivia</p>
           </div>
           <div className="bg-gray-900 rounded-lg p-4">
-            <span className="text-blue-400 font-semibold">🌐 Idiomas</span>
+            <span className="text-blue-400 font-semibold"> Idiomas</span>
             <p className="text-sm mt-1">Español (nativo) · Inglés (C1) · Alemán (en curso)</p>
           </div>
           <div className="bg-gray-900 rounded-lg p-4">
-            <span className="text-blue-400 font-semibold">☁️ Enfoque actual</span>
+            <span className="text-blue-400 font-semibold"> Enfoque actual</span>
             <p className="text-sm mt-1">DevOps · Cloud AWS · Automatización</p>
           </div>
         </div>
